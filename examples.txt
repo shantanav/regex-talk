@@ -1,0 +1,42 @@
+Superhero examples:
+Super Man
+Superman
+Spider Man
+Spiderman
+spiderman
+Wonder Woman
+wonder woman
+wonder Woman
+Blunder Woman
+Ant Man
+Captain America
+Black Widow
+Black Panther
+Super 9an
+
+Number examples:
+1234
+431267
+16237
+123678
+62318
+A1234
+B2534
+asdfghfdahjkfghajfgshjkkljhfgksafl
+421378347890314780094130893403127
+
+Phone number matching:
+123-456-7890
+(123) 456-7890
+1234567890
+123 456 7890
+123456 7890
+123 4567890
+۱۲۳٤٥٦۷۸۹۰
+
+Email matching:
+michael.smith@example.org
+shantanav@sauravmakes.tech
+ss9415@g.rit.edu
+ss9415@rit.edu
+bob.jones@gmail.co.uk
